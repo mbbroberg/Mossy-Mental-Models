@@ -1,7 +1,9 @@
 ---
 Created On: 2024-05-08 06:34:53
-Last Edited: 2024-05-12 13:57:21
+Last Edited: 2024-05-12 14:20:26
 publish: true
+title: Welcome
+Description: Where my thoughts grow
 ---
 > I'm afraid of losing my obscurity. Genuineness only thrives in the dark. Like celery.
 ~ [Aldous Huxley](https://www.azquotes.com/author/7118-Aldous_Huxley)
