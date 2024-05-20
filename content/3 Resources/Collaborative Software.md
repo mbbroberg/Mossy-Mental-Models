@@ -1,11 +1,12 @@
 ---
 publish: true
 Created On: 2024-05-04 22:13:34
-Last Edited: 2024-05-20 14:20:15
+Last Edited: 2024-05-20 16:56:41
 Link: 
+tags:
+  - graft
 ---
-#graft from [Jacky’s brilliant garden](https://github.com/jackyzha0/jackyzha0.github.io/blob/v4/content/thoughts/collaborative%20software.md)
----
+## from [Jacky’s brilliant garden](https://github.com/jackyzha0/jackyzha0.github.io/blob/v4/content/thoughts/collaborative%20software.md)
 
 > Collaborative computing focuses on group rather than individual problem solving and decision making tasks necessary to accomplish business and scientific objectives. It provides an environment in which people can share information without the constraints of space and time.
 
