@@ -1,7 +1,9 @@
 ---
 publish: true
 Created On: 2024-05-04 22:37:30
-Last Edited: 2024-05-11 14:21:21
+Last Edited: 2024-05-12 17:26:38
+tags:
+  - mental-models
 ---
 A reminder of what these differentiate 
 

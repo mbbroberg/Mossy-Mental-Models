@@ -1,10 +1,30 @@
 ---
 Created On: 2024-05-03 06:25:08
-Last Edited: 2024-05-12 13:51:57
+Last Edited: 2024-05-18 20:49:33
 publish: true
 ---
+# Decision 
 
-# Build 
+Done when 
+- [x] Decided on a service ✅ 2024-05-18
+- [x] Decided on an initial structure ✅ 2024-05-18
+- [ ] Configured for an easy path to publish
+
+Anything else is maintenance best explored as a [[PARA System|PARA]] Area. 
+
+# Exploration
+### Path to Publish 
+As of 2024-05-18, I'm a little stuck on my workflow. Right now: 
+
+- Using quartz from the cli with `npx quartz sync #--commit -v`
+- Quartz Syncer from Obsidian
+
+What's not working: 
+
+- I move files to into the garden, but have to remember to add `publish=true` metadata (which I don't) 
+	- Correction: the workflow with Syncer can work well with 
+
+
 ### NEW INFO 
 Quartz is back in front after getting annoyed with how clunky the DG plugin felt. When I got worried about dataview compatibility, I came across this link from the open issue on it:
 
@@ -35,7 +55,8 @@ The config:
 PARA > I could straight up share that as is — Projects / Areas (maintained) / Resources (snippets of thought) / Archive (no longer relevant to me)
 
 Why avoid the structure I’ve put around my own thoughts? 
-- I feel it’s *too complicated* — no, I am worried to be judged and reflection reminds me not to care 
+- I feel it’s *too complicated* — no, I am worried to be judged 
+- and reflection reminds me not to care 
 
 #### Reuse some of Jacky’s?
 From https://github.com/jackyzha0
